@@ -1,0 +1,10 @@
+.card{
+    width: 10rem;
+    float:left;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    height: 26rem;
+}
+.card img{
+    padding: 5px;
+}
