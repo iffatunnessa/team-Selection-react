@@ -21,7 +21,7 @@ const Club = (props) => {
                 <tbody>
                    
                     {
-                        player.map(ck=> <Member member={ck} count={player.count}></Member>)
+                        player.map(ck=> <Member member={ck}></Member>)
                     }
                    
                    </tbody>
